@@ -1,0 +1,14 @@
+{
+  "name": "mochacourse",
+  "version": "1.0.0",
+  "description": "Example code and repo for my Nettuts.com course: JS Unit Testing with Mocha, Chai, and Sinon ",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Jason Rhodes",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
